@@ -7,7 +7,7 @@ url_train = "http:.../train"
 url_predict = "http:.../predict"
 
 # specify local path to dataset file 
-dataset_path = "..." 
+dataset_path = r"..." 
 
 # upload dataset to server
 with open(dataset_path, 'rb') as f:
