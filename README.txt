@@ -1,6 +1,6 @@
-# PAMO - Predictive Analysis for Manufacturing Operations API
+<h1>PAMO - Predictive Analysis for Manufacturing Operations API</h1>
 
-## Setup
+<h3>Setup</h3>
 
 1. Clone the repository.
 2. Install dependencies: 
