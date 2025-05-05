@@ -1,4 +1,4 @@
-<h1>PAMO - Predictive Analysis for Manufacturing Operations API</h1>
+<h2>PAMO - Predictive Analysis for Manufacturing Operations API</h2>
 
 <h3>Setup</h3>
 
